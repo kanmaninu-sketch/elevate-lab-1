@@ -1,0 +1,13 @@
+## bucket policy##
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "statement1",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:getobject",
+            "Resource": "arn:aws:s3:::elevatelab1/*"
+        }
+    ]
+}
