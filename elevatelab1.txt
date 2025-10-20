@@ -1,0 +1,2 @@
+This is my first task in elevate lab internship
+Here i am using AWS for public cloud and using S3 bucket for storage bucket where we can store any type of file and it can also categorize the files based on when the file is uploaded and used.
